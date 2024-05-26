@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agustin Arroyo
-- 👀 I’m interested in Cyberecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Cloud Security
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me agustinarroyojr@gmail.com
 
 <!---
